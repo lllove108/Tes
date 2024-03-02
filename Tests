@@ -1,0 +1,14 @@
+{
+    "displayName": "Hello, world!",
+    "blocks": [
+        {
+            "type": "input",
+            "inputType": "feed",
+            "id": "aaapfhmovt362",
+            "historySeconds": 604800,
+            "listUri": "at://did:plc:v5vjc56pex6dtg5rjm7tkc7l/app.bsky.graph.list/3kmdztji25m2u",
+            "feedUri": "at://did:plc:v5vjc56pex6dtg5rjm7tkc7l/app.bsky.feed.generator/18dd469fc3a9be9"
+        }
+    ],
+    "license": "EUPL-1.2"
+}
